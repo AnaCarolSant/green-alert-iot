@@ -30,8 +30,8 @@ Green Alert é um aplicativo de monitoramento ambiental inteligente, que permite
 ### 1. **Clonar o Repositório**
 
 ```bash
-git clone (https://github.com/AnaCarolSant/green-alert-iot.git)
-cd 2TDS-GS2025
+git clone https://github.com/AnaCarolSant/green-alert-iot.git
+cd green-alert-iot
 ```
    ```
 2. Inicie o Node-RED:
