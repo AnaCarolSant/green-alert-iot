@@ -34,10 +34,6 @@ git clone https://github.com/AnaCarolSant/green-alert-iot.git
 cd green-alert-iot
 ```
    ```
-2. Inicie o Node-RED:
-   ```bash
-   node-red
-   ```
 3. Acesse [http://http://4.201.157.200:1880](http://http://4.201.157.200:1880) e importe o fluxo fornecido.
 4. Configure o nó MQTT:
    - Servidor: `4.201.157.200`
